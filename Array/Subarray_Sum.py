@@ -36,5 +36,5 @@ if __name__ == "__main__":
 
     # test case 3
     arr2  = [1,2,3,7,5]
-    sum = 12
-    print(subArraySum(sum,arr2,len(arr2)))
+    S2 = 12
+    print(subArraySum(S2,arr2,len(arr2)))
